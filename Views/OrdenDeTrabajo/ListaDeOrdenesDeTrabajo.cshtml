@@ -1,0 +1,35 @@
+@model List<Contractors.Models.OrdenDeTrabajo>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">
+            Tasks<br />
+            <small>Listado de Ordenes de trabajo </small>
+        </h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Campo</th>
+                    <th>Campo</th>
+                    <th>Campo</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ordenDeTrabajo in Model)
+                {
+                    <tr>
+                        <td>@ordenDeTrabajo.Tipo</td>
+                        <td>@ordenDeTrabajo.DescripcionDelTrabajo</td>
+                        <td>@ordenDeTrabajo.FechaSolicitud</td>
+                        <td>@Html.ActionLink("Edit", "CreateEdit", "Task", new { Id = ordenDeTrabajo.Id }, new { @class = "btn btn-primary" })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

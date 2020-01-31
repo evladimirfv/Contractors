@@ -1,0 +1,3 @@
+/home/ubi/Projects/Contractors/obj/Debug/netcoreapp2.2/Contractors.csprojAssemblyReference.cache
+/home/ubi/Projects/Contractors/obj/Debug/netcoreapp2.2/Contractors.AssemblyInfoInputs.cache
+/home/ubi/Projects/Contractors/obj/Debug/netcoreapp2.2/Contractors.AssemblyInfo.cs

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Content" t="Include">
+        <e p="bootstrap.css" t="Include" />
+        <e p="custom.css" t="Include" />
+        <e p="font-awesome.css" t="Include" />
+        <e p="sb-admin-2.css" t="Include" />
+        <e p="themes" t="Include">
+          <e p="base" t="Include">
+            <e p="accordion.css" t="Include" />
+            <e p="all.css" t="Include" />
+            <e p="autocomplete.css" t="Include" />
+            <e p="base.css" t="Include" />
+            <e p="button.css" t="Include" />
+            <e p="core.css" t="Include" />
+            <e p="datepicker.css" t="Include" />
+            <e p="dialog.css" t="Include" />
+            <e p="draggable.css" t="Include" />
+            <e p="images" t="Include">
+              <e p="ui-bg_flat_0_aaaaaa_40x100.png" t="Include" />
+              <e p="ui-bg_flat_75_ffffff_40x100.png" t="Include" />
+              <e p="ui-bg_glass_55_fbf9ee_1x400.png" t="Include" />
+              <e p="ui-bg_glass_65_ffffff_1x400.png" t="Include" />
+              <e p="ui-bg_glass_75_dadada_1x400.png" t="Include" />
+              <e p="ui-bg_glass_75_e6e6e6_1x400.png" t="Include" />
+              <e p="ui-bg_glass_95_fef1ec_1x400.png" t="Include" />
+              <e p="ui-bg_highlight-soft_75_cccccc_1x100.png" t="Include" />
+              <e p="ui-icons_222222_256x240.png" t="Include" />
+              <e p="ui-icons_2e83ff_256x240.png" t="Include" />
+              <e p="ui-icons_454545_256x240.png" t="Include" />
+              <e p="ui-icons_888888_256x240.png" t="Include" />
+              <e p="ui-icons_cd0a0a_256x240.png" t="Include" />
+            </e>
+            <e p="menu.css" t="Include" />
+            <e p="progressbar.css" t="Include" />
+            <e p="resizable.css" t="Include" />
+            <e p="selectable.css" t="Include" />
+            <e p="selectmenu.css" t="Include" />
+            <e p="slider.css" t="Include" />
+            <e p="sortable.css" t="Include" />
+            <e p="spinner.css" t="Include" />
+            <e p="tabs.css" t="Include" />
+            <e p="theme.css" t="Include" />
+            <e p="tooltip.css" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Contractors.csproj" t="IncludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="ClienteController.cs" t="Include" />
+        <e p="CompaniaController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+        <e p="OrdenDeTrabajoController.cs" t="Include" />
+        <e p="ProfesionalController.cs" t="Include" />
+        <e p="ServiciosController.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="ClienteModel.cs" t="Include" />
+        <e p="ContractorsContext.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="OrdenDeTrabajoModel.cs" t="Include" />
+        <e p="ProfesionalModel.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Tablas ContractorsDB.sql" t="Include" />
+      <e p="Views" t="Include">
+        <e p="Account" t="Include">
+          <e p="Login.cshtml" t="Include" />
+        </e>
+        <e p="Cliente" t="Include">
+          <e p="Cliente.cshtml" t="Include" />
+        </e>
+        <e p="Compania" t="Include">
+          <e p="Compania.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+        </e>
+        <e p="OrdenDeTrabajo" t="Include">
+          <e p="ListaDeOrdenesDeTrabajo.cshtml" t="Include" />
+          <e p="OrdenDeTrabajo.cshtml" t="Include" />
+        </e>
+        <e p="Profesional" t="Include">
+          <e p="Profesional.cshtml" t="Include" />
+        </e>
+        <e p="Servicios" t="Include">
+          <e p="Servicios.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+        </e>
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Contractors.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="bootstrap.css" t="Include" />
+          <e p="custom.css" t="Include" />
+          <e p="font-awesome.css" t="Include" />
+          <e p="sb-admin-2.css" t="Include" />
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="LICENSE" t="Include" />
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="jquery" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="LICENSE.md" t="Include" />
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

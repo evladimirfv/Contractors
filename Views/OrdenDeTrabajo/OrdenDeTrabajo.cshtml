@@ -1,0 +1,30 @@
+﻿@model Contractors.Models.OrdenDeTrabajo
+
+
+
+@{
+    ViewData["Title"] = "Compañia administradora de recursos humanos y servicios";
+}
+
+<div class="text-center">
+    <h1 class="display-5">Ordenes de Trabajo</h1>
+    
+</div>
+<div class="row">
+    <div class="col-md-12">
+        @using(Html.BeginForm("CreateEdit","OrdenDeTrabajo"))
+        {
+            <div class="form-group">
+                @Html.LabelFor(x => x.Tipo,"Tipo")
+                @Html.TextBoxFor(x => x.Tipo, new {@class = "form-control"})
+            </div>
+
+             <div class="form-group">
+                <input class="btn btn-primary pull-right" type="submit" text="Submit">
+            </div>
+
+        }
+
+    </div>
+
+</div>
